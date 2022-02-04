@@ -1,2 +1,1 @@
-# Capture-the-flag
-# Capture-the-flag
+Capture the Flag
